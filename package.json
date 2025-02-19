@@ -1,0 +1,18 @@
+{
+  "name": "learn-redis",
+  "version": "1.0.0",
+  "description": "i am learning redis",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "redis": "^4.7.0"
+  }
+}
